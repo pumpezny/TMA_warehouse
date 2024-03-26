@@ -253,3 +253,39 @@ UnitOfMeasurement
 Связи:
 - Связь с таблицей "product" по полю "product_unitsOfMeasurement_id" с внешним ключом, указывающим на поле "id" таблицы "UnitOfMeasurement".
 
+
+# screen
+ 
+![screenshot](screenshots/screen1.jpg)
+
+![screenshot](screenshots/screen2.jpg)
+
+![screenshot](screenshots/screen3.jpg)
+
+![screenshot](screenshots/screen4.jpg)
+
+![screenshot](screenshots/screen5.jpg)
+
+![screenshot](screenshots/screen6.jpg)
+
+![screenshot](screenshots/screen7.jpg)
+
+![screenshot](screenshots/screen9.jpg)
+
+![screenshot](screenshots/screen10.jpg)
+
+![screenshot](screenshots/screen11.jpg)
+
+![screenshot](screenshots/screen12.jpg)
+ 
+![screenshot](screenshots/screen13.jpg)
+
+![screenshot](screenshots/screen14.jpg)
+
+![screenshot](screenshots/screen15.jpg)
+
+![screenshot](screenshots/screen16.jpg)
+
+![screenshot](screenshots/screen17.jpg)
+
+
